@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohangurram17
-- 👀 I’m interested in full stack  web development
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in ML&AI
+- 🌱 I’m currently learning full stack web development
 - 📫 How to reach me sohangurram17@yahoo.com
 -
 
